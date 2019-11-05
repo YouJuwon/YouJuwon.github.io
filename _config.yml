@@ -44,3 +44,5 @@ plugins:
 
 url : "https://clearlyhunch.github.io"
 remote_theme : thelehhman/texture
+
+theme: jekyll-theme-minimal
